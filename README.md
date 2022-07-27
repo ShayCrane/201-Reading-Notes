@@ -1,2 +1,4 @@
-# 201-Reading-Notes
-Saving my reading notes here for 201
+# Table of Contents
+- [Reading Notes Class 02](Class02)
+
+
