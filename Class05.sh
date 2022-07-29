@@ -1,3 +1,5 @@
+#!/bin/bash
+#
 # Reading Notes Class 05
 #
 # Microsoft Command Line Tools - CompTIA A+ 220-1002 - 1.4
