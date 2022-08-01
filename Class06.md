@@ -21,6 +21,8 @@ https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-
 # Windows Defender Security Center
 https://www.thewindowsclub.com/windows-defender-security-center
 
+This topic is important, as it directs the reader to the use and design philosophy of windows defender security center. 
+
 Access through the system tray (in Windows 11) by right-clicking on the icon. 
 
 A dashboard for all security features, and implemented in order to make the security of the computer accessible to regular users. 
