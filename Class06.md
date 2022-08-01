@@ -1,7 +1,7 @@
 Reading Notes
 Class 06
 
-## Windows Security Center
+**Windows Security Center**
 
 
 Readings
