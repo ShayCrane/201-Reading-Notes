@@ -5,3 +5,5 @@
 - [Reading Notes Class 05](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class05.md)
 
 - [Reading Notes Class 06](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class06.md)
+
+- [Reading Notes Class 07](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class07.md)
