@@ -41,7 +41,9 @@ Reading 09
 1. Consistency counts (re: format, make a template); and
 1. It's about the audience (write for easy understanding for the audience of the SOP).
 
+### Things I want to know more about
 
+- I would like to see example templates of SOP's for various kinds of organizations. 
 
 
 
