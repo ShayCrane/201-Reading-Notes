@@ -7,3 +7,4 @@
 - [Reading Notes Class 06](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class06.md)
 
 - [Reading Notes Class 07](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class07.md)
+- [Reading Notes Class 08](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class08.md)
