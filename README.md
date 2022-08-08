@@ -9,5 +9,5 @@
 - [Reading Notes Class 07](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class07.md)
 - [Reading Notes Class 08](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class08.md)
 - [Reading Notes Class 09](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class09.md)
-- [Reading Notes Class 09](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class10.md)
-- 
+- [Reading Notes Class 10](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class10.md)
+- [Reading Notes Class 11](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class11.md)
