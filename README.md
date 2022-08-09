@@ -11,3 +11,4 @@
 - [Reading Notes Class 09](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class09.md)
 - [Reading Notes Class 10](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class10.md)
 - [Reading Notes Class 11](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class11.md)
+- [Reading Notes Class 12](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class12.md)
