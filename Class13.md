@@ -1,8 +1,3 @@
-Class 13
-Reading Notes
-
-
-
 Reading Notes
 Class 13
 
@@ -89,6 +84,10 @@ the creation of a virtual, rather than actual, version of something. (Virtualiza
 				- run putty gen if can't access keys
 			- then browse to key again, select
 		- auto login after these steps
+
+
+### Things I want to know more about
+    - I want to become proficient in cloud computing
 
 
 		
