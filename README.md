@@ -1,5 +1,9 @@
 (For the table of contents to this repo, please scroll down past the following informational article regarding my coursework...)<br><Br> 
 
+
+# **Git It**:  a review of my progress thus far<br>
+
+
 ### **What is this repo all about?**
 *This repo contains my submissions to the daily Ops Challenge assignments throughout course 201 in the Ops and Cybersecurity program taught by my instructors at Code Fellows.* <br><br>
 
