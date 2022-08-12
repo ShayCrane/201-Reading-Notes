@@ -20,7 +20,7 @@
 
 - *I can "spin up" a multitude of **virtual machines** using utilities like **VirtualBox** and **cloud computing** systems like **Amazon Web Services** for purposes of troubleshooting a wide range of computer issues, from bad configurations to finding and extracting malware.*<br>
 ><br>*Examples of virtual machines I've built:*
-**Windows 10**, **Ubuntu** servers, **Windows** servers, and more.*<br><br>
+***Windows 10**, **Ubuntu** servers, **Windows** servers, and more*<br><br>
 
 <br>
 
