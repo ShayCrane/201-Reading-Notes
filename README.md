@@ -1,21 +1,4 @@
-# Table of Contents
-
-### (For information regarding this repo, please see below the table of contents.)<br><br>
- 
-- [Reading Notes Class 02](Class_02.md)
-- [Reading Notes Class 03](Class_03.md)
-- [Reading Notes Class 04](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class04.md)
-- [Reading Notes Class 05](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class05.md)
-- [Reading Notes Class 06](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class06.md)
-- [Reading Notes Class 07](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class07.md)
-- [Reading Notes Class 08](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class08.md)
-- [Reading Notes Class 09](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class09.md)
-- [Reading Notes Class 10](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class10.md)
-- [Reading Notes Class 11](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class11.md)
-- [Reading Notes Class 12](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class12.md)
-- [Reading Notes Class 13](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class13.md)
-- [Reading Notes Class 14](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class14.md)
-<br><br>
+(For the table of contents to this repo, please scroll down past the following informational article regarding my coursework...)<br><Br> 
 
 ### **What is this repo all about?**
 *This repo contains my submissions to the daily Ops Challenge assignments throughout course 201 in the Ops and Cybersecurity program taught by my instructors at Code Fellows.* <br><br>
@@ -49,3 +32,22 @@
 
 ### **What aspect of my shell scripting skillset do I hope to improve next?**
 *I intend to become proficient in shell script for the purpose of **expediency and efficiency** through the memorization of the **useful expressions**, in order **to be an asset** to my future employer and/or clients.*<br><br>
+
+
+# Table of Contents
+ 
+- [Reading Notes Class 02](Class_02.md)
+- [Reading Notes Class 03](Class_03.md)
+- [Reading Notes Class 04](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class04.md)
+- [Reading Notes Class 05](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class05.md)
+- [Reading Notes Class 06](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class06.md)
+- [Reading Notes Class 07](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class07.md)
+- [Reading Notes Class 08](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class08.md)
+- [Reading Notes Class 09](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class09.md)
+- [Reading Notes Class 10](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class10.md)
+- [Reading Notes Class 11](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class11.md)
+- [Reading Notes Class 12](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class12.md)
+- [Reading Notes Class 13](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class13.md)
+- [Reading Notes Class 14](https://github.com/ShayCrane/201-Reading-Notes/blob/main/Class14.md)
+<br><br>
+
